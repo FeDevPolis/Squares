@@ -22,7 +22,7 @@ Ariel Restagno Barros
 
 ## 📝 Descripción del Proyecto
 
-Square es un juego arcade donde el objetivo es romper el highscore antes de que se acabe el tiempo de juego, que comienza en 60 segundos. Durante la partida, el jugador debe recoger diferentes tipos de cuadrados que afectan su puntuación y tiempo de juego.
+El juego Square es un juego arcade con mecánicas de puntuación y supervivencia contra el tiempo. La dinámica principal es lograr la mayor puntuación posible antes de que el temporizador llegue a cero, mientras el jugador recolecta diferentes elementos que pueden modificar tanto su puntaje como el tiempo disponible. Este tipo de juego puede incluir mecánicas de habilidad y velocidad de reacción, ya que el jugador debe moverse rápidamente para optimizar sus puntos y extender su tiempo de juego. En resumen, Square es un juego arcade de alta puntuación y administración del tiempo, donde se incentiva al jugador a mejorar sus reflejos y habilidades en cada partida para romper su propio récord o el de otros jugadores.
 
 ## Mecánicas del Juego:
 
