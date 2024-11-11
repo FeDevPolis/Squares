@@ -1,8 +1,9 @@
 ## Square - Arcade Game (Proyecto Final )
-## 🎮 Programación de Videojuegos I
+🎮 Programación de Videojuegos I
 
-## Tecnicatura de Desarrollo y Producción de Videojuegos
-## Universidad Tecnológica Nacional
+Tecnicatura de Desarrollo y Producción de Videojuegos
+
+Universidad Tecnológica Nacional
 
 ## 👨‍🏫 Profesores
 
@@ -67,11 +68,7 @@ Opciones: Mute/Unmute, Reset Highscore, Back to Menu.
 
 ## 🚀 Instrucciones para Ejecutar
 
-Clona este repositorio:
-
-bash
-
-Copiar código
+Clona este repositorio.
 
 git clone <url-del-repositorio>
 
