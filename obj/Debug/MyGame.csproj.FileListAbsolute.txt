@@ -1,0 +1,121 @@
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\asteroid.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Admin\Dropbox\Facultad\UTN\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\player.png
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\arial.ttf
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Consultoria\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.csproj.CopyComplete
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\Admin\Dropbox\Facultad\UTN\PROGRAMACION 1\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\obj\Debug\MyGame.exe
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\obj\Debug\MyGame.pdb
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\fondo.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\MyGame.exe.config
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\MyGame.exe
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\MyGame.pdb
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\objeto01.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\objeto02.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\objeto03.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\bg01.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\bg02.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\bg03.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\bg04.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\bg05.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\bg06.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\bg07.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\bg08.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\bg09.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\bg10.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\bg11.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\bg12.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\bg13.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\bg14.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\bg15.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\bg16.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\sound01.wav
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\Engine\Image.cs
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\objeto04.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\font02.ttf
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\font01.ttf
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\font03.ttf
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\gameover.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\jugador01.png
+C:\Users\lpsol\UTN VJ\Programación I\Proyecto Base\bin\Debug\assets\jugador02.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\bg01.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\bg02.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\bg03.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\bg04.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\bg05.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\bg06.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\bg07.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\bg08.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\bg09.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\bg10.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\bg11.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\bg12.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\bg13.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\bg14.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\bg15.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\bg16.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\fondo.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\gameover.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\jugador01.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\objeto01.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\objeto02.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\objeto03.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\jugador02.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\sound01.wav
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\objeto04.png
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\Engine\Image.cs
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\font01.ttf
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\font02.ttf
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\assets\font03.ttf
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\MyGame.exe.config
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\MyGame.exe
+C:\Users\lpsol\UTN VJ\Programación I\Squares\bin\Debug\MyGame.pdb
+C:\Users\lpsol\UTN VJ\Programación I\Squares\obj\Debug\MyGame.csproj.AssemblyReference.cache
+C:\Users\lpsol\UTN VJ\Programación I\Squares\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\lpsol\UTN VJ\Programación I\Squares\obj\Debug\MyGame.csproj.Up2Date
+C:\Users\lpsol\UTN VJ\Programación I\Squares\obj\Debug\MyGame.exe
+C:\Users\lpsol\UTN VJ\Programación I\Squares\obj\Debug\MyGame.pdb
