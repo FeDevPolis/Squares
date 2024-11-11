@@ -17,7 +17,7 @@ Square es un juego arcade donde el objetivo es romper el highscore antes de que 
 Mecánicas del Juego:
 Cuadrado Azul (Probabilidad de aparición: 50%): Otorga 50 puntos y añade 2 segundos al tiempo.
 Cuadrado Amarillo (Probabilidad de aparición: 10%): Otorga 500 puntos y añade 5 segundos al tiempo.
-Cuadrado Rojo (Probabilidad de aparición: 20%): Tiene un 20% de probabilidad de:
+Cuadrado Rojo (Probabilidad de aparición: 20%): Tiene un 50% de probabilidad de:
 Restar 10 segundos al tiempo.
 Restar 200 puntos o resetear el puntaje a 0.
 Cuadrado Estelar (Probabilidad de aparición: 20%): Otorga 200 puntos y te otorga inmunidad contra el cuadrado rojo hasta que lo vuelvas a recoger. La contrapartida es que dificulta la visibilidad del jugador en pantalla.
