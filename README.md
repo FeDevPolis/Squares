@@ -7,11 +7,17 @@ Universidad Tecnológica Nacional
 👨‍🏫 Profesores
 
 Alejandro Giongrande
+
 Marcos Cabana
+
 Cristian Pablo Duarte
+
 Jorge Manuel Gutierrez Allende
+
 Mariano Martinez Princic
+
 Ariel Restagno Barros
+
 
 📝 Descripción del Proyecto
 
