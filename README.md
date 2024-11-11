@@ -5,16 +5,20 @@ Tecnicatura de Desarrollo y Producción de Videojuegos
 Universidad Tecnológica Nacional
 
 👨‍🏫 Profesores
+
 Alejandro Giongrande
 Marcos Cabana
 Cristian Pablo Duarte
 Jorge Manuel Gutierrez Allende
 Mariano Martinez Princic
 Ariel Restagno Barros
+
 📝 Descripción del Proyecto
+
 Square es un juego arcade donde el objetivo es romper el highscore antes de que se acabe el tiempo de juego, que comienza en 60 segundos. Durante la partida, el jugador debe recoger diferentes tipos de cuadrados que afectan su puntuación y tiempo de juego.
 
 Mecánicas del Juego:
+
 Cuadrado Azul (Probabilidad de aparición: 50%): Otorga 50 puntos y añade 2 segundos al tiempo.
 Cuadrado Amarillo (Probabilidad de aparición: 10%): Otorga 500 puntos y añade 5 segundos al tiempo.
 Cuadrado Rojo (Probabilidad de aparición: 20%): Tiene un 50% de probabilidad de:
@@ -24,6 +28,7 @@ Cuadrado Estelar (Probabilidad de aparición: 20%): Otorga 200 puntos y te otorg
 Cuando el tiempo se acaba, el Highscore se actualiza si el puntaje del jugador supera el récord anterior.
 
 🎮 Escenas del Juego
+
 Escena 0: Menu de Opciones
 
 Play: Inicia el juego.
