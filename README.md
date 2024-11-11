@@ -1,2 +1,2 @@
 # Squares
- Proyecto FInal Programación de Videojuegos I 
+ Proyecto Final Programación de Videojuegos I 
