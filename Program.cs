@@ -19,7 +19,7 @@ namespace MyGame
         }
     }
 
-    // Se crea la clase Player con los atributos Name, Image, PosX, PoxY, Score y los métodos Movement() y Limit Movement()
+    // Se crea la clase Player con los atributos Name, Position, Score y el métodos Movement()
     class Player
     {
         public string Name { get; set; }        
@@ -335,7 +335,7 @@ namespace MyGame
             // aparezca uno u otro.
             for (int i = 0; i < itemsImages.Length; i++)
             {
-                if (i < 4)
+                if (i < 5)
                 {
                     itemsImages[i] = Engine.LoadImage("assets/objeto01.png");
                 }
@@ -397,7 +397,7 @@ namespace MyGame
             // Comprueba si el jugador recoge el objeto y aplica un puntaje / efecto / castigo según la recolección
             if (player.Position.PosX < item.PosX + OBJECTS_SIZE && player.Position.PosX + OBJECTS_SIZE > item.PosX && player.Position.PosY < item.PosY + OBJECTS_SIZE && player.Position.PosY + OBJECTS_SIZE > item.PosY)
             {
-                if (itemsIndex < 4)
+                if (itemsIndex < 5)
                 {
                     player.Score += 50;
                     countdown += 2;
