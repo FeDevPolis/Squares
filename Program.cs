@@ -209,7 +209,7 @@ namespace MyGame
         {
             if (soundOn)
             {
-                music.Play();
+                music.PlayLooping();
             }
             BackgroundColor();
             PickUpItemAndScore();
